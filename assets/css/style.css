@@ -696,7 +696,22 @@ body{
 /*-----------------------------------*\
   #PROPERTY
 \*-----------------------------------*/
+.property { 
+   padding-block-start:60px; 
+}
 
+.property .section—text {
+   margin-block: 8px 16px ;
+   color: var(--neutral-30);
+}
+
+.property-list{
+   gap: 16px;
+   display: grid;
+   grid-template-columns : repeat(auto-fit, minmax(280px, 1fr));
+}
+   
+   
 
 
 
