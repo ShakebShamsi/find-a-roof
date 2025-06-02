@@ -940,14 +940,25 @@ body{
    gap: 16px;
 }
 
+/* Make footer social link images 50% smaller */
+.footer .social-link img {
+   width: 25px;
+   height: 25px;
+   object-fit: contain;
+ }
+   
 .footer-bottom{
    border-block-start: 1px solid var(--neutral-20);
 }
 
 .footer-bottom .container{
-   padding-block: 20px;
-   display: grid;
+   padding: 20px;
+   display: flex;
    justify-content: center;
+}
+.footer-bottom .container{
+   color:var(--primary-100);
+   text-shadow: var(--shadow-4);
 }
 
 
@@ -996,6 +1007,7 @@ body{
       display: grid;
       grid-template-columns: 160px 160px 1fr max-content;
       gap: 0;
+      padding-right: 18px;
    }
    .search-item .material-symbols-rounded{
       display: none;
@@ -1015,8 +1027,8 @@ body{
    }
    .search-btn{
       width: 100%;
-      margin-inline-start: 8px;
-      margin:18px 5px 7px 7px ;
+      margin-inline-end: 8px;
+      margin:17px 7px 7px 7px ;
    }
    
    /*Property*/
