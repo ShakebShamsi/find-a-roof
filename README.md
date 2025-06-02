@@ -2,7 +2,7 @@
 
 **FindaRoof** is a modern, responsive real estate website built entirely using **HTML**, **CSS**, and **JavaScript**. It’s designed to help users find their dream homes with ease, showcasing a clean UI and smooth browsing experience.
 
-🔗 **Live Repo**: [https://github.com/ShakebShamsi/find-a-roof](https://github.com/ShakebShamsi/find-a-roof)
+![image](https://github.com/user-attachments/assets/8b903e90-d9a4-474c-99bf-d2d7e403d219)
 
 ## 🌟 Features
 
@@ -19,11 +19,6 @@
 - **CSS3** – for styling, layout, and responsiveness
 - **JavaScript (Vanilla)** – for interactivity
 
-## 📸 Screenshots
-
->![image](https://github.com/user-attachments/assets/8b903e90-d9a4-474c-99bf-d2d7e403d219)
-
-
 ## 🚀 Getting Started
 
 To run the project locally:
@@ -33,7 +28,8 @@ git clone https://github.com/ShakebShamsi/find-a-roof.git
 cd find-a-roof
 ```
 📁 Folder Structure
-find-a-roof/
+```
+find-a-roof
 ├── index.html
 ├── style.css
 ├── script.js
@@ -41,6 +37,7 @@ find-a-roof/
 │   ├── images/
 │   └── icons/
 └── README.md
+```
 
 🎯 Roadmap (Coming Soon)
 Backend integration for property listings
