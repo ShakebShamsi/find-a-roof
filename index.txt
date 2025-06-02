@@ -270,7 +270,7 @@ alt = Marci Senter
 
 #---------- FOOTER ----------#
 
-alt = logo
+alt = FindaRoof
 
 Lorem ipsum dolor sit amet consectetur. Non bibendum sit non congue pharetra pulvinar leo. Sed ut amet ipsum.
 
